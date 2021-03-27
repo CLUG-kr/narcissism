@@ -6,13 +6,21 @@
 
 - 주변 지역 기반 공동 구매 플랫폼
 
-💻 Backend: Django. 
+```
+💻 Backend: Django Framework
 
-💻 Frontend: HTML CSS JAVASCRIPT
+💻 Frontend: HTML TAILWINDCSS JAVASCRIPT with AWS EC2(quited)
 
-with AWS EC2(quited)
+    - OAuth
+    - Email Verify
+    - Kakao map API(SDK)
+    - Location verify algorithm
+    - User Access Control
+    - Message Framework
+    
+```
+🤟 팀 자아도취, 김찬현 유호성 허보성 
 
-🤟 김찬현 유호성 허보성 
 
 
 # Capture
