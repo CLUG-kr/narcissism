@@ -19,8 +19,19 @@
     - Message Framework
     
 ```
-🤟 팀 자아도취, 김찬현 유호성 허보성 
-https://avatars.githubusercontent.com/u/33655186?v=4
+🤟 팀 자아도취 
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/rlacksgus97"><img src="https://avatars.githubusercontent.com/u/33649903?v=4" width="150px;" alt=""/><br/><sub><b>김찬현</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Youhoseong"><img src="https://avatars.githubusercontent.com/u/33655186?v=4" width="150px;" alt=""/><br/><sub><b>유호성</b></sub></a></td>
+    <td align="center"><a href="https://github.com/heoboseong7"><img src="https://avatars.githubusercontent.com/u/29909282?v=4" width="150px;" alt=""/><br/><sub><b>허보성</b></sub></a></td>
+
+  </tr>
+</table>
+
+
 
 
 # Capture
