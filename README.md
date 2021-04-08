@@ -20,7 +20,7 @@
     
 ```
 🤟 팀 자아도취, 김찬현 유호성 허보성 
-
+https://avatars.githubusercontent.com/u/33655186?v=4
 
 
 # Capture
